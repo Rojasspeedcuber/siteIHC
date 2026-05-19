@@ -167,7 +167,7 @@ O site é totalmente responsivo e otimizado para:
 
 ## 📄 Licença
 
-Este projeto é de uso pessoal e profissional de Luiz Eduardo Crisanto.
+Este projeto é de uso pessoal e profissional de Luiz Eduardo Crisanto(feito por Henrique Rojas, para o cliente Luiz).
 
 ## 🙏 Créditos
 
