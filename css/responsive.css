@@ -97,11 +97,13 @@
     }
 
     .nav-link:hover {
-        background-color: var(--primary-light);
+        background-color: rgba(0, 212, 255, 0.2);
+        color: var(--primary-light);
     }
 
     .nav-link.active {
-        background-color: var(--accent-green);
+        background-color: rgba(0, 255, 136, 0.2);
+        color: var(--accent-green);
     }
 
     .nav-link.active::after {
@@ -519,8 +521,8 @@
     }
 
     body {
-        background-color: var(--bg-white);
-        color: var(--gray-dark);
+        background-color: #000000;
+        color: var(--gray-lighter);
     }
 
     .container {
@@ -534,7 +536,7 @@
     }
 
     a {
-        color: var(--primary-dark);
+        color: var(--primary-light);
     }
 
     .btn {
@@ -545,7 +547,7 @@
     .experience-container,
     .projects-container,
     .hobbies-container {
-        background-color: var(--bg-white);
+        background-color: #ffffff;
         box-shadow: none;
         padding: 0;
     }
@@ -558,7 +560,7 @@
     .gallery-item,
     .hobby-intro,
     .hobby-info {
-        background-color: var(--bg-white);
+        background-color: #ffffff;
         box-shadow: none;
         page-break-inside: avoid;
     }
